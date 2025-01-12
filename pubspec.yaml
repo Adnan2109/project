@@ -1,11 +1,10 @@
 name: hello_app
-description: A new Flutter project.
+description: A simple Flutter Hello World app
 
-publish_to: 'none' # Remove this line if you want to publish to the app store
-version: 1.0.0+1
+publish_to: 'none'
 
 environment:
-  sdk: ">=2.19.0 <3.0.0"
+  sdk: ">=2.18.0 <3.0.0"
 
 dependencies:
   flutter:
